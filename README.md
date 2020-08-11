@@ -10,3 +10,5 @@
 - <a href='./Sentences/sentences.md'>Sentences</a>
 
 - <a href='./Extra/extra.md'>Extra</a>
+
+- <a href='./Songs/songs.md'>Songs</a>
