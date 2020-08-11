@@ -1,6 +1,6 @@
 ## KEYWORDS QUESTIONS
 
-> - 谁= Who <br/> shéi
+- 谁= Who <br/> shéi
 
 - 什么= What <br/> shén me
 
