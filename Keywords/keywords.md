@@ -11,3 +11,26 @@
 - 为什么= Why <br/> wèishéme
 
 - 怎么= How <br/> zěnme
+
+## BASIC KEYWORDS
+
+- 虽然= Although <br/> suīrán
+
+- 但是= But <br/> Dànshì
+
+- 即使= Even if <br/> Jíshǐ
+
+- 如果= If <br/> Rúguǒ
+
+- 现在= Now <br/> Xiànzài
+
+- 告诉了我= Told me <br/> Gàosùle wǒ
+
+- 然后= Then <br/> Ránhòu
+
+- 所以= That's why <br/> Suǒyǐ
+
+- 觉得= Feel <br/> Juédé
+
+- 有时候= Sometimes <br/> Yǒu shíhòu
+
