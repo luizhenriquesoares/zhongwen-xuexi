@@ -34,3 +34,7 @@
 
 - 有时候= Sometimes <br/> Yǒu shíhòu
 
+- 怎么办= How to do <br/> Zěnme bàn
+
+
+

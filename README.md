@@ -12,3 +12,5 @@
 - <a href='./Extra/extra.md'>Extra</a>
 
 - <a href='./Songs/songs.md'>Songs</a>
+
+- <a href='./Dialogs/readme.md'>Dialogs</a>
