@@ -8,3 +8,10 @@
 ### 2 - 周華健 Wakin Chau【朋友 Friends"  
 
 [![](https://i.ytimg.com/vi/6lbPgfKK7m4/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLBqSNNzVmlCeJbL2rt6i7fR6lDOTA)](https://www.youtube.com/watch?v=6lbPgfKK7m4)
+
+### 3 - 不要说话 - Eason chen"  
+
+[![](https://i.ytimg.com/vi/hQOtJmWbLBA/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLAc1MVKULtGC9zaTpJ0jAxvjDBY4A
+)](https://www.youtube.com/watch?v=hQOtJmWbLBA)
+
+
