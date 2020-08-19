@@ -5,12 +5,12 @@
 # 汉语 - Mandarin
 
 
-- <a href='./Keywords/keywords.md'>Keywords</a>
+- <a href='./Keywords/readme.md'>Keywords</a>
 
-- <a href='./Sentences/sentences.md'>Sentences</a>
+- <a href='./Sentences/readme.md'>Sentences</a>
 
-- <a href='./Extra/extra.md'>Extra</a>
+- <a href='./Extra/readme.md'>Extra</a>
 
-- <a href='./Songs/songs.md'>Songs</a>
+- <a href='./Songs/readme.md'>Songs</a>
 
 - <a href='./Dialogs/readme.md'>Dialogs</a>
