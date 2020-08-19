@@ -24,3 +24,29 @@ Nà, háishì qù ba<br/>
 那，还是去吧
 
 ------------
+
+Q: Quando ele volta ? </br>
+
+Tā shénme shíhòu huílái?<br/>
+他什么时候回来？
+
+------------
+
+Q: Eu nao tenho certeza </br>
+
+Wǒ bù qīngchǔ<br/>
+我不清楚？
+
+------------
+
+Q: Não estou me sentindo bem esses dias </br>
+
+Zhè jǐ tiān wǒ bú shūfú<br/>
+这几天我不舒服
+
+------------
+
+Q: Estou doente esses dias e fui ver um médico  </br>
+
+Zhè jǐ tiān wǒ bú shūfú hé wǒ qùle kànbìng<br/>
+这几天我不舒服 和 我去了看病
