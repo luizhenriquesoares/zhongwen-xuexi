@@ -50,3 +50,17 @@ Q: Estou doente esses dias e fui ver um médico  </br>
 
 Zhè jǐ tiān wǒ bú shūfú hé wǒ qùle kànbìng<br/>
 这几天我不舒服 和 我去了看病
+
+------------
+
+Q: Então, talvez algo acontenceu  </br>
+
+Nà, kěnéng chū liǎo shì<br/>
+那， 可能出了事
+
+------------
+
+Q: È melhor eu ir descobrir  </br>
+
+Wǒ zuì hǎo qù dǎtīng yīxià<br/>
+我最好去打听一下
