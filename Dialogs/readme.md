@@ -64,3 +64,26 @@ Q: È melhor eu ir descobrir  </br>
 
 Wǒ zuì hǎo qù dǎtīng yīxià<br/>
 我最好去打听一下
+
+
+------------
+
+Q: Realmente estranho!  </br>
+
+Zhēn qíguài<br/>
+真奇怪
+
+
+------------
+
+Q: O que é estranho?  </br>
+
+Yǒu shé me qíguài?<br/>
+有什么奇怪？
+
+------------
+
+Q: Os chineses não comem com pauzinhos?  </br>
+
+Zhōngguó rén bùshì yòng kuàizi chīfàn ma<br/>
+中国人不是用筷子吃饭吗？
