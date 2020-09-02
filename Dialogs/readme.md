@@ -87,3 +87,40 @@ Q: Os chineses não comem com pauzinhos?  </br>
 
 Zhōngguó rén bùshì yòng kuàizi chīfàn ma<br/>
 中国人不是用筷子吃饭吗？
+
+
+------------
+
+Q: Ele te disse não ? </br>
+
+Tā gēn nǐ shuō méiyǒu ？<br/>
+他跟你说没有？
+
+------------
+
+Q: Disse o que ? </br>
+
+Shuōguò shèn me?<br/>
+说过什么？
+
+------------
+
+Q: Eles decidiram </br>
+
+Tāmen juédìng le<br/>
+他们决定了
+
+------------
+
+Q: Impossivel </br>
+
+Bù kěnéng<br/>
+不可能
+
+------------
+Q: Mas Ontem ele disse que queria se casar comigo </br>
+
+Kě tā zuò tiān shuō yào gēn wǒ jiéhūn<br/>
+可他作天说要跟我结婚
+
+
